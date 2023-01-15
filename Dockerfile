@@ -1,1 +1,1 @@
-FROM iprobedroid/swgoh-arena-tracker:beta-24
+FROM docker.io/iprobedroid/swgoh-arena-tracker:beta-24
